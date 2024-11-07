@@ -1,0 +1,7 @@
+version: "3.7"  # Specify the Compose file version
+
+services:
+  web:
+    image: nginx:latest  # Use the latest Nginx image
+    ports:
+      - "80:80"  # Map container port 80 to host port 80
