@@ -1,0 +1,3 @@
+[submodule "shipyard-test-d"]
+	path = shipyard-test-d
+	url = https://github.com/zanerock/shipyard-test-d
